@@ -1,0 +1,23 @@
+{
+	"name": "genesys_task4--libary_console_app",
+	"version": "1.0.0",
+	"description": "",
+	"main": "Admin.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Ifenna-Pascal/Genesys_Task4--Libary_Console_App.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Ifenna-Pascal/Genesys_Task4--Libary_Console_App/issues"
+	},
+	"homepage": "https://github.com/Ifenna-Pascal/Genesys_Task4--Libary_Console_App#readme",
+	"devDependencies": {
+		"jest": "^27.3.1"
+	}
+}
